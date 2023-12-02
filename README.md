@@ -19,7 +19,7 @@ To run the Snake Game on your machine, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/snake-game-assembly.git`
 2. Navigate to the project directory: `cd snake-game-assembly`
-3. Run the game: [Provide instructions on how to assemble and run the code]
+3. Run the game: You can run this game on NASM 
 
 ## Controls
 
