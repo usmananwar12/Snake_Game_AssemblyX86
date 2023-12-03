@@ -17,8 +17,8 @@ This project is a console-based implementation of the Snake Game using x86 assem
 
 To run the Snake Game on your machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/snake-game-assembly.git`
-2. Navigate to the project directory: `cd snake-game-assembly`
+1. Clone the repository
+2. Navigate to the project directory
 3. Run the game: You can run this game on NASM 
 
 ## Controls
